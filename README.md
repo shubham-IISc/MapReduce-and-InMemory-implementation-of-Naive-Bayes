@@ -1,7 +1,7 @@
 # MapReduce and InMemory implementation of naive bayes
 
 ## InMemory implementation
-Requirements-pandas,numpy
+Requirements-pandas,numpy.
 Kindly change the dataset paths accordingly in naivebayes_InMemory.py file.
 
 
